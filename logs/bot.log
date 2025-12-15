@@ -1,0 +1,12 @@
+2025-12-15 01:13:50,094 [INFO] Trading bot initialized (Testnet=True)
+2025-12-15 01:14:57,751 [INFO] Placing MARKET order: BTCUSDT, Side=BUY, Qty=0.001
+2025-12-15 01:14:59,142 [INFO] Order Placed: {}
+2025-12-15 01:15:54,487 [INFO] Trading bot initialized (Testnet=True)
+2025-12-15 01:16:13,744 [INFO] Placing MARKET order: BTCUSDT, Side=BUY, Qty=0.0001
+2025-12-15 01:16:14,401 [INFO] Order Placed: {}
+2025-12-15 01:17:18,189 [INFO] Initialized bot (Testnet Futures)
+2025-12-15 01:17:33,945 [INFO] {}
+2025-12-15 01:18:10,201 [INFO] Placing LIMIT order: BTCUSDT, Side=SELL, Qty=0.001, Price=48000
+2025-12-15 01:18:11,552 [INFO] Order Placed: {}
+2025-12-15 01:18:55,933 [INFO] Placing STOP-LIMIT order: Symbol=BTCUSDT, Side=BUY, Qty=0.001, StopPrice=46500, LimitPrice=46480
+2025-12-15 01:18:56,602 [INFO] Order Placed: {}
